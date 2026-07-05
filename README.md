@@ -10,8 +10,8 @@ Projeto desenvolvido no âmbito do Programa de Vivência Interdisciplinar (PAVI)
 
 3. Execute o arquivo Python:
 
-python tfc.py
+python (nome do arquivo).py
 
 ou, dependendo do sistema:
 
-python3 tfc.py
+python3 (nome do arquivo).py
